@@ -1,0 +1,1110 @@
+{
+  "plants": [
+    {
+      "seedType": 0,
+      "name": "Kipli",
+      "introduce": "<size=24><color=#3D1400>一Bagaimana mungkin satu tanaman dapat tumbuh dan menghasilkan begitu banyak kacang polong dengan begitu cepat? Ucap Sang Kipli, \u0022Kerja keras, komitmen, dan sarapan sehat dan seimbang yang mengandung sinar matahari dan karbon dioksida berserat tinggi membuat semuanya mungkin.\u0022</color></size>",
+      "info": "<size=24>Sang Kipli adalah garis pertahanan pertama Anda. Mereka menembakkan kacang polong ke arah zombie yang menyerang.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 1,
+      "name": "Windi",
+      "introduce": "<size=24><color=#3D1400>Sunflower can't resist bouncing to the beat. Which beat is that? Why, the life-giving jazzy rhythm of the Earth itself, thumping at a frequency only Sunflower can hear.</color></size>",
+      "info": "<size=24>Sunflowers are essential for you to produce extra sun. Try planting as many as you can!\n\n<color=#3D1400>Sun Output: </color><color=red>25/25 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>50</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 2,
+      "name": "Bom ceri",
+      "introduce": "<size=24><color=#3D1400>\u0022I wanna explode,\u0022 says Cherry #1. \u0022No, let's detonate instead!\u0022 says his brother, Cherry #2. After intense consultation, they agree to explodonate.</color></size>",
+      "info": "<size=24>Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color></size>",
+      "cost": "<size=24>Cost: <color=red>150</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 3,
+      "name": "Kacang Batu",
+      "introduce": "<size=24><color=#3D1400>\u0022People wonder how I feel about getting constantly chewed on by zombies,\u0022 says Wall-nut. \u0022What they don't realize is that with my limited senses, all I can feel is a kind of tingling, like a relaxing back rub.\u0022</color></size>",
+      "info": "<size=24>Wall-nuts have hard shells which you can use to protect your other plants.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color></size>",
+      "cost": "<size=24>Cost: <color=red>50</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 4,
+      "name": "Ucup",
+      "introduce": "<size=24><color=#3D1400>Some folks say Potato Mine is lazy, that he leaves everything to the last minute. Potato Mine says nothing. He's too busy thinking about his investment strategy.</color></size>",
+      "info": "<size=24>Potato Mines pack a powerful punch, but they need a while to arm themselves. You should plant them ahead of zombies. They will explode on contact.\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "cost": "<size=24>Cost: <color=red>25</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 5,
+      "name": "Dimas",
+      "introduce": "<size=24><color=#3D1400>Chomper almost got a gig doing stunts for The Little Shop of Horrors but it fell through when his agent demanded too much on the front end. Chomper's not resentful, though. He says it's just part of the business.</color></size>",
+      "info": "<size=24>Chompers can devour a zombie whole, but they are vulnerable while chewing.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color></size>",
+      "cost": "<size=24>Cost: <color=red>150</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 6,
+      "name": "Puff-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022I only recently became aware of the existence of zombies,\u0022 says Puff-shroom. \u0022Like many fungi, I'd just assumed they were fairy tales or movie monsters. This whole experience has been a huge eye-opener for me.\u0022</color></size>",
+      "info": "<size=24>Puff-shrooms are cheap, but can only fire a short distance.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Can stack up to three times.</color></size>",
+      "cost": "<size=24>Cost: <color=red>0</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 7,
+      "name": "Fume-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022I was in a dead-end job producing yeast spores for a bakery,\u0022 says Fume-shroom. \u0022Then Puff-shroom, bless 'im, told me about this great opportunity blasting zombies. Now I really feel like I'm making a difference.\u0022</color></size>",
+      "info": "<size=24>Fume-shrooms shoot fumes that can pass through screen doors.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Can pierce through.</color></size>",
+      "cost": "<size=24>Cost: <color=red>75</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 8,
+      "name": "Hypno-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Zombies are our friends,\u0022 asserts Hypno-shroom. \u0022They're badly misunderstood creatures who play a valuable role in our ecology. We can and should do more to bring them round to our way of thinking.\u0022</color></size>",
+      "info": "<size=24>When eaten, Hypno-shrooms will make a zombie turn around and fight for you.\n\n<color=#3D1400>Special: </color><color=red>Makes a single zombie fight for you.</color></size>",
+      "cost": "<size=24>Cost: <color=red>75</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 9,
+      "name": "Scaredy-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Who's there?\u0022 whispers Scaredy-shroom, voice barely audible. \u0022Go away. I don't want to see anybody. Unless it's the man from the circus.\u0022</color></size>",
+      "info": "<size=24>Scaredy-shrooms are long-ranged shooters that hide when enemies get near them.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>25</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 10,
+      "name": "Ice-shroom",
+      "introduce": "<size=24><color=#3D1400>Ice-shroom frowns, not because he's unhappy or because he disapproves, but because of a childhood injury that left his facial nerves paralyzed.</color></size>",
+      "info": "<size=24>Ice-shrooms temporarily immobilize all zombies on the screen.\n\n<color=#3D1400>Damage: </color><color=red>20</color>\n<color=#3D1400>Special: </color><color=red>Freezes all zombies in place.</color></size>",
+      "cost": "<size=24>Cost: <color=red>75</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 11,
+      "name": "Bom Hiroshima",
+      "introduce": "<size=24><color=#3D1400>\u0022You're lucky I'm on your side,\u0022 says Doom-shroom. \u0022I could destroy everything you hold dear. It wouldn't be hard.\u0022</color></size>",
+      "info": "<size=24>Doom-shrooms destroy everything in a large area and leave a crater that can't be planted on.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color>\n<color=#3D1400>Special: </color><color=red>Leaves a crater.</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 12,
+      "name": "Daun",
+      "introduce": "<size=24><color=#3D1400>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
+      "info": "<size=24>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=#3D1400>Special: </color><color=red>Non-aquatic plants can be planted on it. Changes appearance, but provides no additional attributes.</color></size>",
+      "cost": "<size=24>Cost: <color=red>25</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 13,
+      "name": "The Rock",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm ready!\u0022 yells Squash. \u0022Let's do it! Put me in! There's nobody better! I'm your guy! C'mon! Whaddya waiting for? I need this!\u0022</color></size>",
+      "info": "<size=24>Squashes will smash the first zombie that gets close to it.\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "cost": "<size=24>Cost: <color=red>50</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 14,
+      "name": "Threepeater",
+      "introduce": "<size=24><color=#3D1400>Threepeater likes reading, backgammon, and long periods of immobility in the park. Threepeater enjoys going to shows, particularly modern jazz. \u0022I'm just looking for that special someone,\u0022 he says. Threepeater's favorite number is 5.</color></size>",
+      "info": "<size=24>Threepeaters shoot peas in three lanes.\n\n<color=#3D1400>Damage: </color><color=red>20*3/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>275</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 15,
+      "name": "Tangle Kelp",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm totally invisible,\u0022 Tangle Kelp thinks to himself. \u0022I'll hide here just below the surface, and nobody will see me.\u0022 His friends tell him they can see him perfectly well, but he'll never change.</color></size>",
+      "info": "<size=24>Tangle Kelp are aquatic plants that pull the first zombie that nears them underwater.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color></size>",
+      "cost": "<size=24>Cost: <color=red>25</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 16,
+      "name": "Jalapeno",
+      "introduce": "<size=24><color=#3D1400>\u0022NNNNNGGGGG....\u0022 Jalapeno says. He's not going to explode, not this time. But soon. Oh, so soon. It's close. He knows it; he can feel it; his whole life's been leading up to this moment.</color></size>",
+      "info": "<size=24>Jalapenos destroy an entire row of zombies.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 17,
+      "name": "Spikeweed",
+      "introduce": "<size=24><color=#3D1400>Hockey is Spikeweed's obsession. He's got box seat season tickets. He keeps close track of his favorite players. And he consistently cleans up in the office hockey pool. Just one problem: he's terrified of pucks.</color></size>",
+      "info": "<size=24>Spikeweeds pop tires and hurt any zombies that step on them\n\n<color=#3D1400>Damage: </color><color=red>20/1 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Instakill Vehicle Zombies</color></size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 18,
+      "name": "Torchwood",
+      "introduce": "<size=24><color=#3D1400>Everybody likes and respects Torchwood. They like him for his integrity, for his steadfast friendship, for his ability to greatly maximize pea damage. But Torchwood has a secret: He can't read.</color></size>",
+      "info": "<size=24>Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.\n\n<color=#3D1400>Special: </color><color=red>Ignites peas that pass through it, increasing their damage.</color></size>",
+      "cost": "<size=24>Cost: <color=red>175</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 19,
+      "name": "Sea-shroom",
+      "introduce": "<size=24><color=#3D1400>Sea-shroom has never seen the sea. It's in his name, he's heard loads about it, but he's just never found the time. One day, though, it'll go down.</color></size>",
+      "info": "<size=24>Sea-shrooms are aquatic plants that shoot short ranged spores.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>0</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 20,
+      "name": "Plantern",
+      "introduce": "<size=24><color=#3D1400>Plantern defies science. He just does. Other plants eat light and excrete oxygen; Plantern eats darkness and excretes light. Plantern's cagey about how he does it. \u0022I'm not gonna say 'sorcery,' I wouldn't use the term 'dark forces,' I just... I think I've said enough.\u0022</color></size>",
+      "info": "<size=24>Planterns light up an area to let you see through fog, and give light levels to plants.\n\n<color=#3D1400>Special: </color><color=red>Dispels the fog with light.</color>\n<color=#3D1400>Lumos System: </color><color=red>Provides 1 Lumos Level in a 3x3 Grid, which can be stacked to provide strength to other light plants. Refer to its fusions for the list of affected plants.</color></size>",
+      "cost": "<size=24>Cost: <color=red>25</color>\nRecharge: <color=red>15 Seconds</color></size>"
+    },
+    {
+      "seedType": 21,
+      "name": "Reza",
+      "introduce": "<size=24><color=#3D1400>She's prickly, sure, but Cactus' spikes belie a spongy heart filled with love and goodwill. She just wants to hug and be hugged. Most folks can't hang with that, but Cactus doesn't mind. She's been seeing an armadillo for a while and it really seems to be working out.</color></size>",
+      "info": "<size=24>Cactuses shoot spikes that can hit both ground and air targets.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Can attack flying zombies.</color></size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 22,
+      "name": "Blover",
+      "introduce": "<size=24><color=#3D1400>When Blover was five he got a shiny new birthday cake. Blover made his wish, huffed and puffed, but was able to extinguish only 60% of the candles. Instead of giving up, though, he's used that early defeat as a catalyst to push himself harder ever since.</color></size>",
+      "info": "<size=24>Blovers blow away all balloon zombies and fog, except Bucket-copter Zombies and Zomppelins.\n\n<color=#3D1400>Special: </color><color=red>Blows away fog and Balloon Zombies. Pushes back Zomppelins slightly.</color></size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>15 Seconds</color></size>"
+    },
+    {
+      "seedType": 23,
+      "name": "Bintang",
+      "introduce": "<size=24><color=#3D1400>\u0022Aw, man,\u0022 says Starfruit. \u0022I went to the dentist the other day, and he said that I have four cavities. I've got—count it—ONE tooth! Four cavities in one tooth? How does this happen?\u0022</color></size>",
+      "info": "<size=24>Starfruits shoot stars in 5 directions.\n\n<color=#3D1400>Damage: </color><color=red>20*5/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 24,
+      "name": "Pumpkin",
+      "introduce": "<size=24><color=#3D1400>Pumpkin had just wrapped up his part-time gig. \u0022Honestly, it was a pretty fun experience,\u0022 he chuckled. \u0022But can someone explain why they kept stuffing candy and candles inside me?\u0022</color></size>",
+      "info": "<size=24>Pumpkins protect plants that are within their shells.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Fusion Priority: </color><color=red>Lowest</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 25,
+      "name": "Jamur Magnet",
+      "introduce": "<size=24><color=#3D1400>Everyone wondered why Magnet-shroom always took so long to \u0022digest\u0022 the iron he absorbed, even after it had already been taken away for fusion. Frustrated, he snapped, \u0022I'm not lazy! I just got knocked out by flying iron!\u0022</color></size>",
+      "info": "<size=24>Magnet-shrooms can absorb metallic objects.\n\n<color=#3D1400>Special: </color><color=red>Can attract metal objects.</color>\nIf there is a magnetic plant in the 8-direction vicinity of another magnetic plant, they are then connected through the Magnetic System. The Magnetic System has no limit to its number of connections, and will boost the strength of some magnetic plants based on its amount. Refer to its fusions for the list of affected plants.</size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>7.5 Seconds</color></size>"
+    },
+    {
+      "seedType": 249,
+      "name": "<size=24>Swordmaster Starfruit</size>",
+      "introduce": "<size=24><color=#3D1400>\u0022I have fought across 3,000 miles of battlefield, my blade halting millions in their tracks.\u0022 The Swordmaster Starfruit, a lover of fine drinks and poetry, takes great pride in his impeccable cosplay skills. With a sly smile, he adds, \u0022My sword never bleeds, for it is merely a decoration.\u0022</color></size>",
+      "info": "<size=24>A guest from afar, I think you will want to become friends.\n\n<color=#3D1400>Damage: </color><color=red>200*5+30*20/6 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 600 damage to all zombies within the surrounding grid, repeating this 20 times.</color></size>",
+      "cost": "<size=24>Cost: <color=red>325</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 250,
+      "name": "<size=30>Kotak Gacha Zombie",
+      "introduce": "<size=24><color=#3D1400>Introducing the Zombie Giftbox—the zombies' entry point into the world of finance. As a high-risk financial product, it comes equipped with a reminder: \u0022Investing carries inherent risks; proceed with caution. Sponsored by Dr. Yan Wang.\u0022 This vital information is cleverly tucked inside the box lid.</color></size>",
+      "info": "<size=24>Earn 100 Sun, but spawns a Gold-box Zombie.\n\n<color=#3D1400>Special: </color><color=red>Spawns a Gold-box Zombie.</color></size>",
+      "cost": "<size=24>Cost: <color=red>-100</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 251,
+      "name": "WHAT IS THIS 3",
+      "introduce": "<size=24><color=#3D1400>阳光父子坚果说付我500阳光，让我帮他个忙，所以我来了。能难到哪里去呢？总不可能是冲进僵尸堆里吧？</color></size>",
+      "info": "<size=24>碾压僵尸。\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 252,
+      "name": "Cattail Girl",
+      "introduce": "<size=24><color=#3D1400>\u0022Cats are usually afraid of water, but I'm a magical cat girl, so I'm not afraid.\u0022 she said enthusiastically, and the other cats looked at her with admiration. Actually, she absolutely loves water, and she said this to make herself stand out.</color></size>",
+      "info": "<size=24>The Cattail Girl will automatically attack all zombies that appear on the map.\n\n<color=#3D1400>Damage: </color><color=red>40*2/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 253,
+      "name": "Padi",
+      "introduce": "<size=24><color=#3D1400>Barley calls itself a generalist, but other plants think of it as just a bit player — \u0022After all, other plants always do the work, don't they?\u0022</color></size>",
+      "info": "<size=24>Barley can transform into any basic, fused, or ultimate plant.\n\n<color=#3D1400>Special: </color><color=red>Transforms into a random plant every 30 seconds.</color></size>",
+      "cost": "<size=24>Cost: <color=red>50</color>\nRecharge: <color=red>30 Seconds</color></size>"
+    },
+    {
+      "seedType": 254,
+      "name": "Endoflame",
+      "introduce": "<size=24><color=#3D1400>It is said that small flowers like her would never dream of producing Sun — the Endoflame was originally going to apply for the position of Sunflower, but she realized that her light would only shine when she is being destroyed. Everyone says that the flame at the top of her head is the brightest, but she knows that her fiery eyes of determination is the source of her strength.</color></size>",
+      "info": "<size=24>The Endoflame can absorb bullets and produce Sun.\n\n<color=#3D1400>Special: </color><color=red>Each bullet can reduce toughness by 50 and produce 25 Sun. Produces a Fertilizer upon death.</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 255,
+      "name": "Kentang Gelinding",
+      "introduce": "<size=24><color=#3D1400>\u0022I am invincible on the battlefield, and my partners can't take their eyes off my majestic figure!\u0022 the Giant Wall-nut boasted. \u0022One year after getting kicked out of the Wall-nut Tumbler Club, I finally found a job that truly suits me.\u0022</color></size>",
+      "info": "<size=24>Giant Wall-nut will roll forward and knock down any zombies it encounters.\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 256,
+      "name": "Kotak Gacha",
+      "introduce": "<size=24><color=#3D1400>No one quite understands why the Plant Giftbox fights alongside the plants against the zombies. He doesn't look like a plant at all, yet he seems to know every plant's abilities inside and out. \u0022Actually, I'm just a college student who loves video games,\u0022 he admits with a grin. \u0022The professor mentioned extra credit, so here I am.\u0022</color></size>",
+      "info": "<size=24>The Plant Giftbox can be planted to produce random plants or fusions.\n\n<color=#3D1400>Special: </color><color=red>When placed on soil or on a Lily Pad, produces a random plant. Placing it on top of an eligible plant can produce a random fusion.</color></size>",
+      "cost": "<size=24>Cost: <color=red>100</color>\nRecharge: <color=red>15 Seconds</color></size>"
+    },
+    {
+      "seedType": 900,
+      "name": "Empress-shroom",
+      "introduce": "<size=24><color=#3D1400>Empress-shroom holds great affection for her zombie subordinates. \u0022They contributed significantly to my rise as an Empress,\u0022 she expressed. Unfortunately, these powerful zombies instill fear in other plants, something Empress-shroom is completely unaware of.</color></size>",
+      "info": "<size=24>Summons zombies that will fight for you\n\n<color=#3D1400>Special: </color><color=red>Randomly selects 1 of the following zombies to summon:\nRugby-nut Zombie | Cherryshooter Newspaper Zombie | Zomboni | Scholar Zombie</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Hypno-shroom + Hypno-shroom</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 901,
+      "name": "<size=20>Kipli Tentara Kerasukan Ceri Bom",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm not sure why the Gatling Pea has so many fans. My brother and I can fire four bullets too,\u0022 Gatling Cherrybomber remarked enviously. However, the truth is that everyone appreciates Gatling Pea for his kindness and outstanding culinary talents.</color></size>",
+      "info": "<size=24>Gatling Cherrybomber is the strongest damage-dealer on land.\n\n<color=#3D1400>Damage: </color><color=red>300*4/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Gatling Cherry + Explodoshooter</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 902,
+      "name": "<size=32>Squash Infernowood",
+      "introduce": "<size=24><color=#3D1400>Squash Infernowood has a high opinion of himself, but other plants regard him with disdain, particularly those in the pea family. \u0022He's too picky! He possesses such strong power, yet it only benefits cherries,\u0022 they say. This infuriates Squash Infernowood. \u0022I'm just allergic to peas…\u0022</color></size>",
+      "info": "<size=24>Spawns a Spicy Squash for every 20 cherries that pass through.\n\n<color=#3D1400>Special: </color><color=red>Cherry bomb bullets that pass through it become bouncing spicy squashes that explode after every bounce. After 20 of such bullets have passed, spawn a Spicy Squash in front.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Pyrewood + Spicy Squash</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 903,
+      "name": "Cherrizilla",
+      "introduce": "<size=24><color=#3D1400>Cherrizilla proudly says, \u0022Many envy my dinosaur-like hairstyle.\u0022 As a public figure, he's mindful of his image: \u0022Spitting cherries and eating zombies is gross, but it's my duty.\u0022</color></size>",
+      "info": "<size=24>Cherrizilla is the ultimate defensive plant on land.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Special: </color><color=red>Chomping zombies restores 1000 Toughness, deal a 1000 damage, and spits out exploding cherries. Zombies with HP < 2000 will be insta-killed and restore full Toughness to Cherrizilla. Repels vehicles back, receiving at most 1/3 of its maximum Toughness.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Chewzilla + Cherry Chomper</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 904,
+      "name": "Emperor-shroom",
+      "introduce": "<size=24><color=#3D1400>Would Death employ a fashion consultant? King-shroom had no idea, but after noticing that he couldn't consistently frighten zombies, he turned to Hypno-shroom for a custom set of fashion designs. Although people might not favor Death, how would they react if he wore sparkling purple ice wings?</color></size>",
+      "info": "<size=24>Emperor-shroom deals immense damage, simultaneously charming and slowing down zombies.\n\n<color=#3D1400>Special: </color><color=red>Has a chance to charm zombies with HP < 50%, creating an explosion in the grid where the charmed zombie is located with a 500 damage.</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Doomberg-shroom + Charm-shroom</color></size>",
+      "cost": "\n<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 905,
+      "name": "Sun Emperor",
+      "introduce": "<size=24><color=#3D1400>Sun Emperor, a master of photosynthesis, revolutionized light energy-mass conversion, minimizing energy loss through recycling. He humbly credits pioneers like Sunflower, Sun-shroom, and Endoflame: \u0022I'm just standing on the shoulders of giants.\u0022</color></size>",
+      "info": "<size=24>Sun Emperor produces Sun every time it is injured.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Regardless of the type of damage dealt, each attack on it will only reduce 50 Toughness. Produces 15 Sun after every hit. Clicking the mouse on it will consume 500 Sun and cause a Giant-nut to come rolling down, also restoring Toughness to full in the process.</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>(Sunflower + Wall-nut) + Wall-nut</color></size>",
+      "cost": "\n<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 906,
+      "name": "Spikesidian",
+      "introduce": "<size=24><color=#3D1400>After being baptized by fire and ice, Spikesidian became as hard as steel, but its temperament also became erratic. This change is likely due to the steel that condensed in its mouth, making it reluctant to speak.</color></size>",
+      "info": "<size=24>Spikesidian can deal immense damage while also tanking multiple tires.\n\n<color=#3D1400>Toughness: </color><color=red>6000</color>\n<color=#3D1400>Damage: </color><color=red>100*2/1 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Spikecicle + Spikinferno</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 907,
+      "name": "Gatling Doom",
+      "introduce": "<size=24><color=#3D1400>\u0022Gatling Doom is dangerous and should not be approached. It is a forbidden force in the world.\u0022 Despite the frightening tales circulating among the plants, Gatling Doom is not as it seems. In fact, it is one of the friendliest plants. However, the zombies turned to ashes would disagree.</color></size>",
+      "info": "<size=24>Destruction incarnate. Fires rounds of destruction unlucky enough to face its wrath.\n\n<color=#3D1400>Damage: </color><color=red>300*4/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Fires a bullet of doom that deals 1800 damage once every 4 round of bullets. Each bullet will splash damage over a large area.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Gatling Pea + Doom-shroom</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 908,
+      "name": "<size=30>Gatling Icicle-shroom",
+      "introduce": "<size=24><color=#3D1400>The little puff-shrooms who once shouted, \u0022We are going to join the army!\u0022 have matured into veterans with resolute eyes. Wherever and whenever, the Gatling Icicle-shroom Company is committed to ensuring that the mission is accomplished.</color></size>",
+      "info": "<size=24>Can be stacked three times to shoot 12 icicles at once!\n\n<color=#3D1400>Damage: </color><color=red>20*4*3/1.5 Seconds</color>\n<color=#3D1400>Cryo System: </color><color=red>Each hit adds 5 Cryo Points. Bullets deal 4 times more damage to frozen enemies. Each bullet can pierce 3 times.</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Puff-shroom + Gatling Snow (In Order)</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 909,
+      "name": "Star Emperor",
+      "introduce": "<size=24><color=#3D1400>No one knows where Star Emperor is from, but one thing's for sure: He was not responsible for the dinosaurs. Not at all!</color></size>",
+      "info": "<size=24>Why the heck is there a meteor on my lawn!?\n\n<color=#3D1400>Damage: </color><color=red>20*5/1.5 Seconds</color>\n<color=#3D1400>Lumos System: </color><color=red>Each Lumos level will increase the damage of the bullets by 20.</color>\n<color=#3D1400>Magnetic System: </color><color=red>Each plant connected to the Magnetic System will increase the damage of the bullets by 5%.\n<color=purple>Both systems can increase the damage of the bullets by upto 120, maximum.</color>\n<color=#3D1400>Special: </color><color=red>Summons a meteor every 20 seconds, dealing 1800 damage upon impact. Splits into multiple bullets that home in on zombies and deal 100 damage each.</color></color>\n<color=#3D1400>Fusion Formula: </color><color=red>Starlure + Magcactus</color></size>",
+      "cost": "\n<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 910,
+      "name": "Ultima-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Nuclear deterrence is beneficial. Someday, the zombies will stop their assaults out of fear of my formidable self-detonation,\u0022 Ultima-shroom asserted with confidence. Yet, it was evident that Ultima-shroom failed to understand that zombies wouldn't initiate a Cold War just because they were hit with cold air.</color></size>",
+      "info": "<size=24>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#3D1400>Damage: </color><color=red>(100+100*8)*4/1.9 Seconds</color>\n<color=#3D1400>Damage Range: </color><color=red>5*5</color>\n<color=#3D1400>Search Range：</color><color=red>5*3</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Doomberg-shroom + Cryogloom-shroom</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 911,
+      "name": "Laser Pumpkin",
+      "introduce": "<size=24><color=#3D1400>\u0022The strength of Magnet-shroom remains excessive. After all, composite armor, electromagnetic catapults, and plasma machine guns are innovations that were developed nearly a century after aircraft carriers were first introduced,\u0022 said Laser Pumpkin. Other plants envied the sci-fi gear of Laser Pumpkin, but only Magnet-shroom knew that he had simply been hit by a meteorite from the Star Emperor.</color></size>",
+      "info": "<size=24>Spawns laser drones that home in on enemies.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Special: </color><color=red>Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a 3x3 grid regularly.</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Bloverthorn Pumpkin + Magblover</color></size>",
+      "cost": "\n<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 912,
+      "name": "WHERE IS THIS",
+      "introduce": "<size=24><color=#3D1400>感谢究极杨桃，现在我们有一整套新装备了！看看这些新奇玩意，复合装甲，电磁高速螺旋桨，还有等离子机炮......等等！不！我最喜欢的花瓶！</color></size>",
+      "info": "<size=24>激光无人机可以发射激光穿透攻击。\n\n<color=#3D1400>Damage: </color><color=red>200/1.5 Seconds（作为植物）200/1 Seconds(作为僚机)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 913,
+      "name": "Obsidian-nut",
+      "introduce": "<size=24><color=#3D1400>Rather than seeking protection from his best friend, this plant would rather be the one to protect him. His hard, gem-like, and luminous body, along with his unwavering eyes, are formed by the Obsidian-nut's soul after enduring the trials of ice and fire etched into his very bones. Even if his body and mind become worn down one day, he is committed to doing whatever it takes to keep other plants safe.</color></size></size>",
+      "info": "<size=24>The Obsidian-nut has four times the defense of a normal Tall-Nut.\n\n<color=#3D1400>Toughness: </color><color=red>32000</color>\n<color=#3D1400>Special: </color><color=red>1500 HP every 15 seconds. Resists being run over by a car, taking a maximum of 200 damage each time.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Frost-nut + Scorch-nut</color></size>",
+      "cost": "\n<size=24><color=purple>Usage Condition: Travel Mode</color></size>"
+    },
+    {
+      "seedType": 1000,
+      "name": "Windi x Kipli",
+      "introduce": "<size=24><color=#3D1400>\u0022Actually, the Sunflower behind me is my sister,\u0022 Pea Sunflower explained to everyone. \u0022We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\u0022 But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
+      "info": "<size=24>Pea Sunflower can fire Sun Bullets which produce Sun.\n\n<color=#3D1400>Damage: </color><color=red>100/5 Seconds</color>\n<color=#3D1400>Special: </color>\n<color=red>Bullets drop 5 Sun when hitting zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Sunflower</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1001,
+      "name": "Kipli Rasa Ceri",
+      "introduce": "<size=24><color=#3D1400>\u0022Red-hot anger issues? Me? Bah! You're red and hot! Your whole family is red!\u0022 Cherry Shooter despised being teased about the color of his head. But the jokes didn't last long—after eating special cherries, Pea Shooter really did turn red and warm, and yes, he could shoot cherry bullets.</color></size>",
+      "info": "<size=24>Cherryshooter fires powerful cherry bullets.\n\n<color=#3D1400>Damage: </color><color=red>60/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Cherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1002,
+      "name": "Windi Lato Lato",
+      "introduce": "<size=24><color=#3D1400>\u0022So… it's obvious… we are Pretty Cure, aren't we?\u0022 The two Sunflower sisters tried to suppress their excitement. \u0022The world needs us to save it!\u0022 Their passion bubbled over as they shouted together, \u0022Light! Illuminate this land!\u0022</color></size>",
+      "info": "<size=24>Sun Bomb can produce Sun after killing zombies.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color>\n<color=#3D1400>Special: </color><color=red>Produces 25 Sun for each zombie killed in the explosion.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sunflower + Cherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1003,
+      "name": "Bom Kentang",
+      "introduce": "<size=24><color=#3D1400>\u0022I heard some zombies grumbling about their inability to eat cherries. Well, here I am!\u0022 The cheerful Cherry Nut shook the leaves atop his head, boasting about his pure cherry flavor. \u0022But first, you have to promise me something: when you have cherries, share a bit with me. In fact, just give me everything you've got! I was born for this!\u0022</color></size>",
+      "info": "<size=24>Cherry-nut can absorb explosion damage and restore toughness.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Absorbs Cherry explosion damage to restore toughness. (From Ally: 25, From Enemy: 200)</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cherry Bomb + Wall-nut</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1004,
+      "name": "Kentang Penyefong",
+      "introduce": "<size=24><color=#3D1400>\u0022No... don't call me ugly, or else... wait... I'll spray you.\u0022 Pea-nut has always struggled with his \u0022unique\u0022 appearance. But he firmly believes that what's inside a plant matters more than how it looks. Seeking guidance, he humbly asked senior Bowling Nut for advice and eventually mastered the technique of rolling nuts like bowling balls.</color></size>",
+      "info": "<size=24>Pea-nut fire mini-nut bullets that can penetrate zombies.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds（Piercing）</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Wall-nut</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1005,
+      "name": "<size=28>Kipli Kerasukan Bom Ceri",
+      "introduce": "<size=24><color=#3D1400>Meet Explodoshooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
+      "info": "<size=24>The bullets fired by Explodoshooter will cause area explosion damage.\n\n<color=#3D1400>Damage: </color><color=red>300/3 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Cherry Bomb +\nCherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1006,
+      "name": "<size=30>Kentang Bersedekah",
+      "introduce": "<size=24><color=#3D1400>Solar-nut always sees himself as an angel, blissfully unaware that the other plants often talk behind his back. \u0022If he adds a few black lines, he will look exactly like a bee.\u0022</color></size>",
+      "info": "<size=24>Solar-nut produce Sun while protecting your plants.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Sun Output: </color><color=red>25/15 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sunflower + Wall-nut</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1007,
+      "name": "Ucup Kipli",
+      "introduce": "<size=24><color=#3D1400>Pea Mine may not have eyes, but he has his own special way of sensing zombies. \u0022I feel it…\u0022 he murmured, \u0022The zombies are getting closer… closer… closer…\u0022 Pea Mine's heartbeat quickened, and so did his firing speed. Faster, faster… until, with a \u0022bang,\u0022 Pea Mine exploded into a burst of potato-flavored fireworks.</color></size>",
+      "info": "<size=24>Pea Mine can attack before unearthing.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Upon exploding, releases 36 bullets on all directions.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Potato Mine</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1008,
+      "name": "Kipli 2 Rasa Ceri",
+      "introduce": "<size=24><color=#3D1400>Cherrypeater lives by the motto \u0022good things come in pairs.\u0022 Whether it's fighting zombies or handing out presents, he does it all in twos. \u0022But come on,\u0022 Repeater teased, \u0022those cherries of yours aren't even close to ripe.\u0022</color></size>",
+      "info": "<size=24>Cherrypeater can fire two cherries at a time.\n\n<color=#3D1400>Damage: </color><color=red>60*2/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Repeater + Cherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1009,
+      "name": "Windi Ranjau",
+      "introduce": "<size=24><color=#3D1400>\u0022Stop at red lights, slow down at yellow lights, and obey traffic rules!\u0022 Sun Mine frequently warns zombies. But to the zombies, all they see is the disgusting green hue before them. He clutches green leaves and pouts, wishing for more sunshine. \u0022After all, sunshine is what fuels us all!\u0022</color></size>",
+      "info": "<size=24>Sun Mine produces Sun until and after its explosion.\n\n<color=#3D1400>Damage: </color><color=red>1800</color>\n<color=#3D1400>Sun Output: </color><color=red>25/15 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sunflower + Potato Mine</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1010,
+      "name": "Kacang Ranjau",
+      "introduce": "<size=24><color=#3D1400>Once seen as small and weak, Mine-nut now stood tall and strong, boasting a pair of big eyes and firm flesh. Yet beneath that sturdy exterior, he felt fragile and feared shrinking back to his former size. The zombies quipped, \u0022If you take another bite, you'll explode!\u0022</color></size>",
+      "info": "<size=24>Mine-nut can explode while being eaten and once when broken.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Damage: </color><color=red>500 / Explosion, 1800 / Death</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Wall-nut + Potato Mine</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1011,
+      "name": "Dimas Congor",
+      "introduce": "<size=24><color=#3D1400>Chomper has always envied Chomp-shooter's ability to spit out zombie remains, and he's tried to learn the trick more than once. Little did he know, though, that the secret wasn't a special skill—it was just that Chomp-shooter's mouth was slightly deformed, causing bits of zombie to leak out while chewing.</color></size>",
+      "info": "<size=24>Chomp-shooter can fire bullets after biting.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color>\n<color=#3D1400>Special: </color><color=red>Spits out piercing bullets after biting that deals 80 damage.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1012,
+      "name": "Dimas Mau Makan",
+      "introduce": "<size=24><color=#3D1400>As a young plant, Chomp-nut was notoriously picky about food, never swallowing zombies in one bite, which frustrated its parents. After much persuasion, Chomp-nut finally learned to consume zombies whole, just like its predecessors. \u0022I'm not picky! I just want to imitate how zombies eat. I should try something new, right? It's definitely not because I don't have a neck, making it inconvenient to swallow in one bite,\u0022 Chomp-nut said while chewing on a zombie.</color></size>",
+      "info": "<size=24>Chomp-nut can restore toughness after eating zombies.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color>\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Wall-nut + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1013,
+      "name": "Chewzilla",
+      "introduce": "<size=24><color=#3D1400>Chewzilla savors every meal, despite his smaller mouth. \u0022Big mouths are sloppy and don't hit the gym; they fall apart on the front line,\u0022 he scoffs. \u0022I only eat the essence of zombie meat and spit out the rest,\u0022 he grins, though his backyard is filling up with leftovers.</color></size>",
+      "info": "<size=24>Chewzilla can both be a bulwark and fierce attacker.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Eating zombies restores 100 Toughness and deals 200 Damage while spitting out rolling bullets that inflict 80 Damage and pierce infinitely. Zombies with HP < 500 and no armor are instantly killed, restoring 200 Toughness and spawning bullets that deal 20 Damage, pierce 5 times, and knock back zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Wall-nut + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1014,
+      "name": "Dimas Punk",
+      "introduce": "<size=24><color=#3D1400>Everyone was curious about how Sun Chomper transformed the zombies it devoured into sunlight, but it always hesitated to share its secret. One day, Sunflower discovered that her chlorophyll content had significantly diminished, revealing the truth: it wasn't actually turning zombies into sunlight.</color></size>",
+      "info": "<size=24>Sun Chomper can produce Sun after swallowing zombies.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color>\n<color=#3D1400>Special: </color>\n<color=red>Produces 100 Sun after swallowing zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sunflower + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1015,
+      "name": "Dimas Ranjau",
+      "introduce": "<size=24><color=#3D1400>Delicious and enticing, Potato Mines taste just like self-heating mashed potatoes, earning rave reviews from zombies. Among them, fries take the top spot in popularity. As zombies flock to the tantalizing aroma of French fries, they have no idea they're also indulging in tasty potato chips. \u0022Just wait and see,\u0022 Chomp-mine said with a mouthful, \u0022Their nutrients will soon become new mines.\u0022</color></size>",
+      "info": "<size=24>After swallowing a zombie, the Chomp-mine will grow Potato Mines in front of it.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color>\n<color=#3D1400>Special: </color><color=red>Plants a Potato Mine in front of it upon swallowing a zombie.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Potato Mine + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1016,
+      "name": "Dimas GYAT!",
+      "introduce": "<size=24><color=#3D1400>Ever since her drink with Cherry Bomb, Chomper has been constantly \u0022buzzing.\u0022 \u0022Try this!\u0022 became her new mantra before every meal. The sound of chewing transformed into explosive pops as plates and bowls flew everywhere, leaving everyone unwilling to dine with her. After a show of hands, Cherry Chomper ended up eating in the yard. Now, she finds entertainment on zombies, shouting \u0022Try this!\u0022—at least she no longer has to buy new tableware.</color></size>",
+      "info": "<size=24>Explodes a Cherry Bomb upon eating a zombie.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill</color>\n<color=#3D1400>Special: </color><color=red>Creates a Cherry explosion in front when biting, killing zombies in a 3x3 grid.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cherry Bomb + Chomper</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1017,
+      "name": "<size=30>Kipli Tentara Rasa Ceri",
+      "introduce": "<size=24><color=#3D1400>Gatling Cherry's barrel was always red hot. He assured everyone that it was preheated to ensure faster bullet firing. Everyone bought the story—until they caught him eating special cherries without even removing the barrel.</color></size>",
+      "info": "<size=24>Cherryshooter's final form!\n\n<color=#3D1400>Damage: </color><color=red>60*4/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Gatling Pea + Cherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1018,
+      "name": "Kipli-Kecil",
+      "introduce": "<size=24><color=#3D1400>\u0022Don't let my size fool you; even a small body can contain a lot of energy,\u0022 Pea-shroom cautions those who underestimate him. \u0022We all began as tiny mushrooms, making progress a little at a time. With dedication to a sunny breakfast, you can become just like me.\u0022</color></size>",
+      "info": "<size=24>Pea-shroom shoot further than Puff-shroom.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Puff-shroom + Peashooter (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1019,
+      "name": "Repea-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Who am I? The double-shot holds the answer!\u0022 exclaims the little puff-shroom, proudly flaunting the twin leaves atop its head. With double bullets and double the cheer, these spirited beings thrive in groups, eagerly pouring their firepower onto the battlefield, showcasing that size doesn't define their strength.</color></size>",
+      "info": "<size=24>Repea-shroom can fire two small peas at a time.\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Puff-shroom + Repeater (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1020,
+      "name": "Buckshooter",
+      "introduce": "<size=24><color=#3D1400>\u0022I embody the spirit of my ancestors; I will not fall here!\u0022 Ironshooter asserted confidently to anyone who crossed his path. When it was pointed out that his helmet resembled one stolen from the Iron Bucket Zombie, he countered, \u0022Then let us invoke their will and ride the winds and waves once more!\u0022</color></size>",
+      "info": "<size=24>Ironshooter has the ability to crack armor.\n\n<color=#3D1400>Toughness: </color><color=red>2000</color>\n<color=#3D1400>Damage: </color><color=red>80/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Knocks back on contact. Deals immense damage to Iron Zombies, and break iron doors.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Iron</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1021,
+      "name": "Kanjud",
+      "introduce": "<size=24><color=#3D1400>Nut or mushroom? Why worry about labels? Nut-shroom isn't about to tell you it's actually a matsutake in disguise anyway.</color></size>",
+      "info": "<size=24>Nut-shroom can be your stalwart defender despite its size.\n\n<color=#3D1400>Toughness: </color><color=red>2000</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Puff-shroom + Wall-nut (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1022,
+      "name": "Mini Hypno-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022As a kid, I believed zombies were nothing more than fairy tale monsters,\u0022 Mini Hypno-shroom said softly. \u0022Now, don't get it twisted—I'm just restoring them to the fairy tale form they were always supposed to have.\u0022</color></size>",
+      "info": "<size=24>Shrinks a zombie and makes it fight for you!\n\n<color=#3D1400>Special: </color><color=red>Makes a zombie smaller (cuts Health in half) and fight for you.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Puff-shroom + Hypno-shroom (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1023,
+      "name": "<size=30>Hypno Fume-shroom</size>",
+      "introduce": "<size=24><color=#3D1400>The colorful Hypno Fume-shroom makes a grand debut! With a blast of spores, it can turn zombies around in an instant. Some claim it's a secret technique passed down by the mushroom family, while others believe it's a cutting-edge military weapon. Hypno Fume-shroom just smiles and says, \u0022It's all thanks to Hypno-shroom helping me rinse my mouth every day.\u0022</color></size>",
+      "info": "<size=24>Hypno Fume-shroom spray fumes that can charm zombies.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds (Piercing) </color>\n<color=#3D1400>Special: </color><color=red>\nChance to charm zombies with <50% Health.\nHypnotizes the zombie that eats it.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>\nFume-shroom + Hypno-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1024,
+      "name": "<size=28>Hypno Scaredy-shroom",
+      "introduce": "<size=24><color=#3D1400>Scaredy-shroom has always been afraid of zombies. In order to reduce her fear, Hypno-shroom tells her a bedtime story every day: \u0022Actually, there are good people among zombies.\u0022 Over time, Scaredy-shroom was finally brainwashed. Now she can use spores to brainwash zombies. Of course, she is still very afraid.</color></size>",
+      "info": "<size=24>Hypno Scaredy-shroom can fire bullets in 7 colors.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Randomly fires 1 of 7 types of bullets. When a zombie is hit by all 7 types of bullets, it will be charmed. Each time it is hit by a type of bullet, the charm probability of the Hypno Scaredy-shroom will increase.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Hypno-shroom + Scaredy-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1025,
+      "name": "Bold-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Courage fills me, no fear remains~ Whether it's spring, fall, winter, or summer~\u0022 Bold-shroom no longer shrinks in the face of zombies. \u0022I used to tremble, but Senior Fume-shroom told me, 'If a zombie gets near, spray your spores. Hiding won't solve anything.'\u0022</color></size>",
+      "info": "<size=24>Bold-shroom is ready to take on the zombies, near or far!\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>When zombies get close by 3 tiles, they will spray piercing fumes instead.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Fume-shroom + Scaredy-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1026,
+      "name": "Charm-shroom",
+      "introduce": "<size=24><color=#3D1400>Charm-shroom speaks with a soft smile, \u0022Each spore carries my love, and when they bloom, it's like a spring breeze caressing the air.\u0022 She even twisted her head into a heart to express her feelings. Her eyes shine with sincerity, hoping that maybe, just maybe, the zombies will understand her love.</color></size>",
+      "info": "<size=24>Charm-shroom can fire explosive Charm spores.\n\n<color=#3D1400>Damage: </color><color=red>80 / 1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>40 splash damage in a 1x1.5 grid. Has a chance to charm zombies with < 50% HP.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Fume-shroom + Scaredy-shroom + Hypno-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1027,
+      "name": "Abang Kentang",
+      "introduce": "<size=24><color=#3D1400>\u0022The taller you are, the more powerful you become.\u0022 Tall-nut firmly believed in this, which is why he always stayed on the front line. Other plants would urge him to take it easy, but he'd just smile and say, \u0022It's fine, I'm tall. As long as you fight quickly, the zombies won't have time to eat all of me.\u0022</color></size>",
+      "info": "<size=24>Tall-nuts are heavy-duty wall plants that can't be vaulted or jumped over.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 1028,
+      "name": "Rugby-nut",
+      "introduce": "<size=24><color=#3D1400>Rugby-nut looked fierce, causing some small plants that didn't know the truth to feel scared by his appearance. However, the plants that understood Rugby-nut knew that beneath his serious exterior lay a strong determination to protect his companions. The stolen helmet undoubtedly boosted his confidence.</color></size>",
+      "info": "<size=24>Rugby-nut is able to hold a huge amount of damage.\n\n<color=#3D1400>Toughness: </color><color=red>16000</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Tall-nut + Rugby Helmet</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1029,
+      "name": "Buck-nut",
+      "introduce": "<size=24><color=#3D1400>Plants hold conflicting feelings about Buck-nut. As an exemplary soldier, he executes orders with unwavering precision, yet his cold demeanor leaves much to be desired. The rust at the corners of his mouth hints at a storied past. In the quiet moments, however, Buck-nut wrestles with an unspoken worry: \u0022How do I prevent rust in a humid garden?\u0022</color></size>",
+      "info": "<size=24>Blocks the zombies' advance with a wall of iron.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Wall-nut + Iron</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1030,
+      "name": "Kipli Dua",
+      "introduce": "<size=24><color=#3D1400>Unlike his bright and cheerful brother, Repeater leads a carefree life—until it's time to fight. He secretly mastered the art of double shooting but kept it hidden from Peashooter. \u0022I just want him to live happily, without ever needing to learn these battle skills.\u0022</color></size>",
+      "info": "<size=24>Repeater fires two peas at a time.\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Peashooter</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1031,
+      "name": "Anak Windi",
+      "introduce": "<size=24><color=#3D1400>Sun-shroom hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass.</color></size>",
+      "info": "<size=24>Sun-shrooms give small sun at first and normal sun later.\n\n<color=#3D1400>Sun Output: </color><color=red>15（25）/ 25 Seconds\n<color=#3D1400>Growth Time: </color><color=red>120 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Puff-shroom + Sunflower</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1032,
+      "name": "Kipli Tentara",
+      "introduce": "<size=24><color=#3D1400>Gatling Pea, the big brother of the Pea family, stands tall with his gun barrel, the very foundation of everyone's safety. His back is like a monument on the battlefield, admired by all. Yet, he smiles modestly, knowing that his daily life is actually managed by his younger brother, Peashooter. \u0022I can't live without him,\u0022 he admits quietly.</color></size>",
+      "info": "<size=24>Gatling Pea shoots four peas at a time.\n\n<color=#3D1400>Damage: </color><color=red>20*4/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Split Pea + Peashooter</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1033,
+      "name": "Windi Berkepala 2",
+      "introduce": "<size=24><color=#3D1400>The Twin Sunflower are known as sisters, always working behind the scenes rather than on the battlefield's front lines. Their role is to support everyone from the rear, but make no mistake—you must protect them. If they're harmed, many plants will quietly shed tears.</color></size>",
+      "info": "<size=24>Twin Sunflowers give twice as much sun as a normal sunflower.\n\n<color=#3D1400>Sun Output: </color><color=red>25*2/20 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sunflower + Sunflower</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1034,
+      "name": "Kipli Es",
+      "introduce": "<size=24><color=#3D1400>The cold-blooded Snow Pea rarely displays his emotions to other plants. Some say his heart is even colder than the frozen peas he fires. Snow Pea doesn't want to come off that way, but every time he opens his mouth, the bullets he launches plunge the atmosphere around him to freezing temperatures.</color></size>",
+      "info": "<size=24>Snow Peas shoot frozen peas that damage and slow the enemy.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Cryo System:</color>\n<color=red>Each bullet will add 10 Cryo Points.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Peashooter + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1035,
+      "name": "Icicle-shroom",
+      "introduce": "<size=24><color=#3D1400>The Icicle-shrooms didn't set out to master refrigeration technology. During a hiking trip, they forgot their quilts and spent an entire night frozen atop a mountain, frost forming on their heads. Later, Snow Pea, captivated by their frosty appearance, gifted them some ice bullets to complement their new look.</color></size>",
+      "info": "<size=24>Icicle-shroom fires icicles that slow down enemies.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Cryo System: </color><color=red>Adds 5 Cryo Points for every icicle hit. Pierce 3 times. Each icicle will deal 4 times more damage to a frozen zombie.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Puff-shroom + Snow Pea (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1036,
+      "name": "Mini Ice-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Smaller in size, same big abilities!\u0022 Mini Ice-shroom's signature poker face never cracks as he delivers his jokes, and that might just be why zombies freeze on the spot.</color></size>",
+      "info": "<size=24>Mini Ice-shroom can temporarily freeze zombies they come into contact with.\n\n<color=#3D1400>Special: </color><color=red>Freezes zombies that eat it in place.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Puff-shroom + Ice-shroom (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1037,
+      "name": "Ice Fume-shroom",
+      "introduce": "<size=24><color=#3D1400>Ice Fume-shroom stands out among the Fume-shrooms. His study abroad in the freezing Alaskan wilderness made him even cooler—literally. Though he only studied hair design for a few years, he's pretty proud of it.</color></size>",
+      "info": "<size=24>Ice Fume-shroom's fumes can pass through and freeze zombies.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds (Piercing) </color>\n<color=#3D1400>Cryo System: </color><color=red> Will add 5 Cryo Points after each attack.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Fume-shroom + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1038,
+      "name": "<size=30>Ice Scaredy-shroom",
+      "introduce": "<size=24><color=#3D1400>Ice Scaredy-shroom believes he stands apart from other scaredy-shrooms. Unlike them, he never shrinks in fear and joins in all activities without hesitation. However, that's only because when he gets scared, the air around him plummets in temperature, leaving everyone too afraid to startle him.</color></size>",
+      "info": "<size=24>Ice Scaredy-shroom can fire ice spores that slow down zombies and freeze nearby zombies when scared.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Cryo System: </color><color=red>10 Cryo Points per attack.</color>\n<color=#3D1400>Special: </color>\n<color=red>Freeze nearby zombies when they get near.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Scaredy-shroom + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1039,
+      "name": "Es Kacang",
+      "introduce": "<size=24><color=#3D1400>Frost-nut raised its icy spikes high, ready to confront the zombies. Others remarked on how \u0022cold\u0022 and \u0022silent\u0022 he seemed. Yet, his expression remained unchanged, resolute in his defense against the undead. The truth was his face had simply frozen in place.</color></size>",
+      "info": "<size=24>Frost-nut are heavy barrier plants. They slow down zombies that bite them.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Cryo System: </color><color=red>Zombies that bite it are slowed down and accumulate 10 Cryo Points.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Ice-shroom + Tall-nut</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1040,
+      "name": "Cryodoom-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022I will freeze the world, and silence will reign. The extreme cold will disrupt your body's temperature system, so it won't be very painful,\u0022 Cryodoom-shroom proclaims. He seldom appears in battle, but when he does, a blizzard follows in his wake. With a flash of white light, even time seems to freeze.</color></size>",
+      "info": "<size=24>Cryodoom-shroom can destroy zombies in the entire screen and freeze time.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color>\n<color=#3D1400>Special: </color><color=red> Freezes the level – no new zombies will appear within 10 seconds.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Ice-shroom + Doom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1041,
+      "name": "Ice Hypno-shroom",
+      "introduce": "<size=24><color=#3D1400>Frost Beauty? High Mountain Flower? Ice Hypno-shroom. She didn't care. She quietly took care of the frost headdress on her head and was ready to hand her high nut headgear to the zombies at any time. \u0022They will like the cool style.\u0022</color></size>",
+      "info": "<size=24>When a zombie eats an Ice Hypno-shroom, it will transform into an Ice Tall-nut Zombie that will fight for you.\n\n<color=#3D1400>Special: </color><color=red>Upon contact turns a zombie into an Ice Tall-nut Zombie that will fight for you. Also freezes the full field.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Hypno-shroom + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1042,
+      "name": "<size=28>Doom Scaredy-shroom",
+      "introduce": "<size=24><color=#3D1400>While some plants instinctively bury their heads when nervous, Doom Scaredy-shroom thrives on excitement. His adrenaline spikes, causing his bullets to fire at an increasing rate. It's wise to avoid provoking him again, or he might explode from all that pent-up energy.</color></size>",
+      "info": "<size=24>Doom Scaredy-shroom's attack speed increases as it attacks.\n\n<color=#3D1400>Damage: </color><color=red>20 / 1.5 Seconds (0.5 Seconds Peak)</color>\n<color=#3D1400>Special: </color><color=red>Each attack will shorten the attack interval by 0.1 seconds, max 0.5 seconds.\nResets when zombies get near.\nWill explode when zombies get near while peak attack speed is reached.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Scaredy-shroom + Doom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1043,
+      "name": "<size=32>Doom Fume-shroom</size>",
+      "introduce": "<size=24><color=#3D1400>Doom Fume-shroom, the misanthropic workaholic, can't stand the sight of zombies—too much of a distraction. He's got a small stash of bullets, but they're more than lethal enough. \u0022Don't bother me unless it's urgent. If you want them dead, just shoot them yourself.\u0022 Still, his sharp efficiency keeps everyone looking up to him.</color></size>",
+      "info": "<size=24>Doom Fume-shroom can destroy most zombies in front of it.\n\n<color=#3D1400>Damage: </color><color=red>1800/60 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Manually click to attack all zombies in a row.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Fume-shroom + Doom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1044,
+      "name": "Mini Doom-shroom",
+      "introduce": "<size=24><color=#3D1400>Mini Doom-shroom may be small, but his temper is explosive. Disagree with him, and he might blow up—no eye contact needed. It's best to admire him from afar—just don't get too close, or things might get messy.</color></size>",
+      "info": "<size=24>Mini Doom-shroom will explode when it comes into contact with a zombie.\n\n<color=#3D1400>Damage: </color><color=red>1800 (Ashes)</color>\n<color=#3D1400>Special: </color><color=red>Will explode when zombies get close.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Puff-shroom + Doom-shroom (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1045,
+      "name": "<size=32>Kanjud Hitam",
+      "introduce": "<size=24><color=#3D1400>The plants have been wondering why the zombies who have died once cannot be killed. Until the nearest Doom Hypno-shroom discovered the problem. \u0022In fact, I didn't do anything. I just enthusiastically helped the zombies activate the backup hidden energy. Don't the red zombies look very dangerous? I have already warned them.\u0022</color></size>",
+      "info": "<size=24>Zombies that eat the Doom Hypno-shroom will get hypnotized, and explode after death.\n\n<color=#3D1400>Special: </color><color=red>Zombies that eat the Doom Hypno-shroom will be charmed to fight for you. It will explode upon death, dealing massive damage.</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Hypno-shroom + Doom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1046,
+      "name": "Doomberg-shroom",
+      "introduce": "<size=24><color=#3D1400>Frost has wrapped around his body, stripping away the innocence of his youth. His eyes, colder and deadlier than any gun's barrel, now only show disdain for his enemies. He's become the reaper, the end of the line. Anyone caught in his frosty sights would do well to leave one less meal prepared at home.</color></size>",
+      "info": "<size=24>Doomberg-shroom can fire explosive ice cones.\n\n<color=#3D1400>Damage: </color><color=red>30*4/3 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Pierces 3 enemies. Splashes 10 damage within range of enemy contact.\n<color=#3D1400>Fusion Formula: </color><color=red>Fume-shroom + Ice-shroom + Doom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1047,
+      "name": "Squash-spreader",
+      "introduce": "<size=24><color=#3D1400>\u0022He has three heads, and his base isn't even a leaf! He looks nothing like a regular pea!\u0022 Many plants cower at the sight of Squash-spreader's peculiar appearance. Yet, Squash-spreader remains unfazed. He thrives in his vibrant life, battling zombies, reading voraciously, playing chess, and winning every pool skipping contest.</color></size>",
+      "info": "<size=24>Squash-spreader can fire small bouncing squashes.\n\n<color=#3D1400>Damage: </color><color=red>40*3/3 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Every time a squash bullet hits the ground, it inflicts 40 points of damage to nearby zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Squash + Threepeater</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1049,
+      "name": "Spicy Kelp",
+      "introduce": "<size=24><color=#3D1400>\u0022Passion is like fire,\u0022 and Spicy Kelp knows this saying all too well. No amount of water can quench their fervent flames! Too bad, the nearby zombies can only feel the heat of the \u0022grilling\u0022. Look at them, they have already turned to ashes in this relentless fire!</color></size>",
+      "info": "<size=24>Spicy Kelp will burn the entire row of zombies upon contact.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill + 1800 (Ashes)</color>\n<color=#3D1400>Fusion Formula: </color>\n<color=red>Tangle Kelp + Jalapeno (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1050,
+      "name": "Squash Kelp",
+      "introduce": "<size=24><color=#3D1400>Squash Kelp stands out as a true philosopher among plants. It often mumbles, \u0022Am I the squash or am I the kelp?\u0022 or ponders profound questions like, \u0022Where does the grass come from, and where does it go?\u0022 However, its disregard for personal hygiene and unkempt hair make other plants shy away, preferring to keep their distance.</color></size>",
+      "info": "<size=24>Squash Kelp can drag three zombies into the water.\n\n<color=#3D1400>Damage: </color><color=red> Instant Kill*3</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Squash + Tangle Kelp</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1051,
+      "name": "Kelp-spreader",
+      "introduce": "<size=24><color=#3D1400>Kelp-spreader basked in the sun, his eyes scanning the horizon. \u0022Many plants are scared of my gaze,\u0022 he chuckled. \u0022But they'd understand if they had to wear three pairs of sunglasses for protection like I do!\u0022</color></size>",
+      "info": "<size=24>Can fire kelp bullets that slow down zombies.\n\n<color=#3D1400>Damage: </color><color=red>20*3/1.5 Slows + Stackable with Freeze</color>\n<color=#3D1400>Tangle Debuff: </color><color=red>Each bullet will cause additional percentage damage based on the zombie's Tangle Value. The zombie will be insta-killed when the Tangle Value is full.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Threepeater + Tangle Kelp</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1052,
+      "name": "Pyrewood",
+      "introduce": "<size=24><color=#3D1400>\u0022It's sweltering out here!\u0022 Pyrewood fumed. Convinced that the intense weather was to blame for its skin, it noted how the flames on its head had also turned a vibrant red. Maybe it was the perfect time to kick off a summer adventure called the \u0022Sledding Tour.\u0022</color></size>",
+      "info": "<size=24>Pyrewood can provide an even stronger damage boost to bullets!\n\n<color=#3D1400>Special: </color><color=red>Improve damage depending on the type of bullet. Explodes upon death.\nPeas: 80 | Cherries: 120 | Iron Peas: 320 | Sunlight: 400 | Threeway Pea: 60\nDeals 40 damage-over-time to splashed zombies every 3 seconds.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Torchwood + Jalapeno + Jalapeno</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1053,
+      "name": "Scorchwood",
+      "introduce": "<size=24><color=#3D1400>High temperatures and spiciness always go hand in hand. Scorchwood may not grasp this concept, but his years of working at the barbecue stall have certainly infused him with a distinctive heat.</color></size>",
+      "info": "<size=24>Bullets ignited by the Scorchwood has greatly increased power.\n\n<color=#3D1400>Special: </color><color=red>Improve damage depending on the type of bullet. Explodes upon death.\nPeas: 60, Cherries: 120, Bucks: 320, Sunlight: 400, Threeway Pea: 45</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Torchwood</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1054,
+      "name": "Spicy Squash",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm not as impatient as my brother,\u0022 Spicy Squash stated calmly. \u0022He rushes through everything, but I've learned that true success comes from patience and careful observation. Sometimes, it's best to wait and let the fire simmer.\u0022</color></size>",
+      "info": "<size=24>Spicy Squash can burn a whole row of zombies.\n\n<color=#3D1400>Damage: </color><color=red> 1800 (Single Tile) + 1800 (Lane)</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Squash + Jalapeno</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1055,
+      "name": "Torchthree",
+      "introduce": "<size=24><color=#3D1400>\u0022Why is Torchthree so rich?\u0022 the plants frequently pondered. \u0022Oh, it's no big deal,\u0022 he shrugged. Threeway Torchwood then produced three peas from his hair and added, \u0022I used to work as a magician in a circus.\u0022</color></size>",
+      "info": "<size=24>Can turn one pea into three flaming peas.\n\n<color=#3D1400>Special: </color><color=red>Splits the peas that pass through into 3 small flaming peas that deal 30 splash damage.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Threepeater + Torchwood</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1056,
+      "name": "Torch-kelp",
+      "introduce": "<size=24><color=#3D1400>\u0022Fire struggles to exist beneath the water, which means I can't use my flames to light the way,\u0022 Torch-kelp admitted. \u0022But once above the surface, my flames can shine once again.\u0022</color></size>",
+      "info": "<size=24>Ignite kelp bullets or drag zombies into the water.\n\n<color=#3D1400>Special: </color><color=red>Ignites peas and kelp bullets. Ignited kelp bullets can add 1 Tangle Value to all zombies in the splash range.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Tangle Kelp + Torchwood</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1057,
+      "name": "WHERE IS THIS 2",
+      "introduce": "<size=24><color=#3D1400>火焰窝瓜总是一个接一个从窝炬里跳出来。\u0022炼瓜炉里太热了，把我身体都要烤化了！\u0022几个金色的火焰窝瓜一起喊道。</color></size>",
+      "info": "<size=24>他只是一个金色的窝瓜。\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1058,
+      "name": "<size=28>Scorched Threepeater",
+      "introduce": "<size=24><color=#3D1400>\u0022Why does Jalapeno always get all the credit?\u0022 Scorched Threepeater exclaimed, smoke escaping from his mouth. \u0022If they only realized that fusing with Jalapeno burns your peas.\u0022 He turned to Torchwood with a serious look. \u0022Trust me, you wouldn't want to munch on charred peas!\u0022</color></size>",
+      "info": "<size=24>A Threepeater who can't fuse because he's scorched.\n\n<color=#3D1400>Damage: </color><color=red>20*3/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Produces a line of flames that deal 1800 (Ashes) damage in three lanes when planted or fused.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Threepeater + Jalapeno</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1059,
+      "name": "<size=28>Squashed Torchwood",
+      "introduce": "<size=24><color=#3D1400>\u0022It's way too hot! Too hot!\u0022 Squash yelled, trapped in the flames of Torchwood. \u0022Who put me here? I should be squashing zombies, not being the punchline at a barbecue party!\u0022 The heat was overwhelming, and as he reached his breaking point, he ignited, bursting forth from the torch to rejoin the battle against the zombies.</color></size>",
+      "info": "<size=24>Produces a Squash in front for each 60 peas that pass through it.\n\n<color=#3D1400>Special: </color><color=red>Every time 60 peas are lit, a Squash will be planted in front.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Squash + Torchwood</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1060,
+      "name": "Spikerock",
+      "introduce": "<size=24><color=#3D1400>Spikerock just got back from a trip to Europe. He had a great time, met some wonderful people, really broadened his horizons. He never knew they made museums so big, or put so many paintings in them. That was a big surprise for him.</color></size>",
+      "info": "<size=24>Spikerocks pop multiple tires and hurt any zombies that step on them.\n\n<color=#3D1400>Toughness: </color><color=red>450</color>\n<color=#3D1400>Special: </color><color=red>Can puncture tires, but deducts 50 Toughness.</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 1061,
+      "name": "Torchweed",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm Torchweed, the zombies' passionate barbecue chef! Ignite that little pea, and I'll throw them an unforgettable barbecue party. Rest assured, I'm a professional—I guarantee it will be crispy on the outside and tender on the inside!\u0022</color></size>",
+      "info": "<size=24>Torchweed can ignite small peas and puncture vehicles.\n\n<color=#3D1400>Special: </color><color=red>Ignite small peas for increased, and splashed, damage.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Spikeweed + Torchwood</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1062,
+      "name": "Scorchweed",
+      "introduce": "<size=24><color=#3D1400>\u0022Studies reveal that spiciness is actually a type of pain,\u0022 Scorchweed announced, rattling the red thorns on his head. \u0022I intend to let the unbelieving zombies experience this reality for themselves.\u0022</color></size>",
+      "info": "<size=24>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=#3D1400>Damage: </color><color=red>20</color>\n<color=#3D1400>Enflamed Debuff: </color><color=red> Any damage received will increase by 50%.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Spikeweed</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1063,
+      "name": "Squashweed",
+      "introduce": "<size=24><color=#3D1400>\u0022Huh? Yeah.\u0022 This catchphrase belongs to Squashweed, who rarely speaks and often leaves others feeling uncertain. After dinner, the topic of thorns always becomes a favorite among the plants. It's said that on an ordinary afternoon, as Squash prepared to crush a nearby zombie, he overlooked the thorns lurking beneath its feet.</color></size>",
+      "info": "<size=24>Zombies will be knocked back every time it attacks.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Each attack will knock back zombies and fire 1 bouncing squash bullet.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Squash + Spikeweed</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1064,
+      "name": "Weed-spreader",
+      "introduce": "<size=24><color=#3D1400>\u0022It was nothing but dandruff that I threw out,\u0022 Spikeweed declared casually. Weed-spreader raised an eyebrow, unconvinced. \u0022Jealous talk, if you ask me,\u0022 he replied. \u0022You can't fool me with that excuse.\u0022</color></size>",
+      "info": "<size=24>Fires 3 weeds that deal enhanced damage to vehicles.\n\n<color=#3D1400>Damage: </color><color=red>5*3/1.5 Seconds (Piercing)</color>\n<color=#3D1400>Special: </color><color=red>Bullets deal 30% max Toughness damage to vehicles.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Threepeater + Spikeweed</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1065,
+      "name": "<size=34>Gatling Pea-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022We're off to join the army!\u0022 the three little mushrooms shouted with joy. Although their heights didn't meet the requirements and locating small helmets was a struggle, these challenges couldn't hold back the Gatling Pea-shrooms. United as one, they set their sights on becoming the top trio in the army.</color></size>",
+      "info": "<size=24>Can be stacked three times to shoot 12 small peas at once!\n\n<color=#3D1400>Damage: </color><color=red>20*4/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Puff-shroom + Gatling Pea (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1066,
+      "name": "<size=32>Squashkelp-spreader",
+      "introduce": "<size=24><color=#3D1400>Squashkelp-shooter possesses a contemplative heart, embracing the realm of philosophy. If you hand him a glass of root beer, be prepared for a discourse on Nietzsche's Thus Spoke Zarathustra or Kant's Critique of Pure Reason. Although his musings may sound profound, there are times when he longs for lighthearted conversations, such as discussing the temperature of the water's depths.</color></size>",
+      "info": "<size=24>Fires kelp that bounce upon contact and slow down water zombies.\n\n<color=#3D1400>Damage: </color><color=red>40*3/3 Seconds</color>\n<color=#3D1400>Tangle Debuff: </color><color=red>Kelp bounce upon contact, dealing 40 Damage to nearby zombies when they land. Slows down water enemies. Adds 1 Tangle Value upon contact.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Tangle Kelp + Threepeater + Squash</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1067,
+      "name": "Anabul",
+      "introduce": "<size=24><color=#3D1400>\u0022Woof!\u0022 says Cattail. \u0022Woof woof woof! Does this confuse you? Do you expect me to say 'Meow' like a cat because the word 'cat' is in my name and I also look like a cat? That's not how things work around here. I refuse to be pigeonholed.\u0022</color></size>",
+      "info": "<size=24>Cattails can attack any lane and shoot down balloon zombies.\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 1068,
+      "name": "Frost Cattail",
+      "introduce": "<size=24><color=#3D1400>\u0022I'm not just a cat... I'm... I'm a super blue cat!\u0022 declared Frost Cattail. \u0022Do you have cat ice?\u0022 His love for catnip shines through, and he has an undeniable fascination with all things cool.</color></size>",
+      "info": "<size=24>Frost Cattail can attack any zombie in the lane and slow them down.\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds (Piercing) </color>\n<color=#3D1400>Cryo System: </color><color=red>Each hit on a zombie adds 5 Cryo Points. Additionally focuses its attacks on the affected zombie.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Ice-shroom + Cattail</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1069,
+      "name": "Flame Cattail",
+      "introduce": "<size=24><color=#3D1400>\u0022When I was young, I thought I'd be a regular Cattail,\u0022 Flame Cattail said, warming her tail with pride. \u0022Turns out, I'm a blazing inferno of awesomeness!\u0022 Frost Cattail sighed from the corner, muttering, \u0022Showoff.\u0022</color></size>",
+      "info": "<size=24>Flame Cattail can attack zombies in any lane and deal high damage.\n\n<color=#3D1400>Damage: </color><color=red>40*2/1.5 Seconds</color>\n<color=#3D1400>Enflamed Debuff: </color><color=red>Deals twice more damage to Enflamed zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Cattail</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1070,
+      "name": "Pompa hamil",
+      "introduce": "<size=24><color=#3D1400>\u0022I've always enjoyed releasing heavy fumes,\u0022 says Gloom Shroom. \u0022I know a lot of people aren't cool with that. They say it's rude or that it smells bad. All I can say is, would you rather have your brain eaten by zombies?\u0022</color></size>",
+      "info": "<size=24>Gloom-shrooms fire heavy fumes in an area around them.\n\n<color=#3D1400>Damage: </color><color=red>20*4/1.9 Seconds</color></size>",
+      "cost": "<size=24>Cost: <color=red>125</color>\nRecharge: <color=red>50 Seconds</color></size>"
+    },
+    {
+      "seedType": 1071,
+      "name": "<size=32>Embergloom-shroom",
+      "introduce": "<size=24><color=#3D1400>Embergloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
+      "info": "<size=24>Releases high-damaging ember fumes around it.\n\n<color=#3D1400>Damage: </color><color=red>40*4/1.9 Seconds</color>\n<color=#3D1400>Enflamed Debuff: </color><color=red>Inflicts the Enflamed debuff when attacking zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Gloom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1072,
+      "name": "Cryogloom-shroom",
+      "introduce": "<size=24><color=#3D1400>Dreaming of a career as a physicist, the Cryogloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \u0022Why do I have multiple strings of ice cones sprouting from my head?\u0022 he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \u0022strings.\u0022</color></size>",
+      "info": "<size=24>Releases cold fumes around that can freeze zombies.\n\n<color=#3D1400>Damage: </color><color=red>20*4/1.9 Seconds (Piercing) </color>\n<color=#3D1400>Cryo System: </color><color=red>Each attack adds 5 Cryo Points.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Ice-shroom + Gloom-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1073,
+      "name": "Scorch-nut",
+      "introduce": "<size=24><color=#3D1400>Scorch-nut is a huge fan of the Olympics and passionately insists that Torchwood be chosen as the Olympic torch. Cautious warning to the uninformed though: do not try to eat him. You may find yourself burning up from the spicy heat.</color></size>",
+      "info": "<size=24>Zombies will get enflamed when bitten.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Enflamed Debuff: </color><color=red>Zombies that are Enflamed will be 50% more vulnerable to all attacks.</color>\n<color=#3D1400>Special: </color><color=red>When affected by the Jalapeno, heals 1000 Toughness. Zombies that attack it also lose 20 Health per attack.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Tall-nut</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1074,
+      "name": "Spikecicle",
+      "introduce": "<size=24><color=#3D1400>After his return from Alaska, Spikecicle couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \u0022ice\u0022 bursting beneath their feet. He made it a point that everyone use the term \u0022ice.\u0022 His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
+      "info": "<size=24>Can puncture tires and freeze zombies.\n\n<color=#3D1400>Toughness: </color><color=red>450</color>\n<color=#3D1400>Damage: </color><color=red>20*2/1 Seconds (Piercing) </color>\n<color=#3D1400>Cryo System: </color><color=red>Adds 5 Cryo Points per attack.</color>\n<color=#3D1400>Special: </color><color=red>Can puncture tires, insta-killing vehicles.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Ice-shroom + Spikerock</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1075,
+      "name": "Spikinferno",
+      "introduce": "<size=24><color=#3D1400>Not long ago, Spikinferno traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Spikecicle, though Spikecicle doesn't seem to share his enthusiasm.</color></size>",
+      "info": "<size=24>Enflame zombies that step on it and also puncture vehicles.\n\n<color=#3D1400>Toughness: </color><color=red>450</color>\n<color=#3D1400>Damage: </color><color=red>40*2/1 Seconds</color>\n<color=#3D1400>Enflamed Debuff: </color><color=red>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Jalapeno + Spikerock</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1076,
+      "name": "Sea Thorn-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022People often ask about my appearance, so let me clarify: I'm from the Namib Desert,\u0022 Sea Thorn-shroom said to anyone who inquired. \u0022If you're familiar with geography, you'll know that a desert can be found right next to the ocean!\u0022</color></size>",
+      "info": "<size=24>Attack flying zombies and airships, growing in size after a while.\n\n<color=#3D1400>Damage: </color><color=red>20 → 20*4 / 1.5 Seconds</color>\n<color=#3D1400>Growth Time: </color><color=red>120 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Cactus</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1077,
+      "name": "Sea Sun-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Sadly, I am a mushroom, not a flower, so I can't be called a sea flower or anything similar,\u0022 Sea Sun-shroom admitted. \u0022At times, this brings me down, but don't let it bother you. I may not be a sunflower, yet I can still use different physical and chemical reactions in the water to bring you sunshine!\u0022</color></size>",
+      "info": "<size=24>Produces increasing amounts of Sun as it grows.\n\n<color=#3D1400>Sun Output: </color><color=red>15 → 25 → 50 / 15 Seconds</color>\n<color=#3D1400>Growth Time: </color><color=red>20 Seconds → 40 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Sunflower</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1078,
+      "name": "Sea Lamp-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022I've been a light system at a pirate pool party, worked for an Amazon deep-water salvage company for three months, and even served as night fishing bait while I was sleeping!\u0022 Sea Lamp-shroom shared, a mix of anger and pride evident in his voice. \u0022Now, I'm looking for a stable job. Uncle Dave mentioned that the backyard pool needed lighting, but he forgot to mention it was infested with zombies!\u0022</color></size>",
+      "info": "<size=24>Dispels fog and give light, growing in size after a while.\n\n<color=#3D1400>Growth Time: </color><color=red>60 Seconds</color>\n<color=#3D1400>Lumos System: </color><color=red>Gives 1 Lumos Level in a 3x3 Grid, 5x5 after growth.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Plantern</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1079,
+      "name": "Lumicactus",
+      "introduce": "<size=24><color=#3D1400>\u0022My adventures in the desert have made me remarkably brilliant,\u0022 Lumicactus boasted, but he never forgot to replenish his lamp oil each day to ensure he continued to shine.</color></size>",
+      "info": "<size=24>Fires piercing spikes and lasers, depending on the Lumos level.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds, 20*2/1.5 Seconds (Air)</color>\n<color=#3D1400>Lumos System: </color><color=red>Gets the following buffs depending on the Lumos Level:\nLevel 1 = Pierce 3 Times\nLevel 2 = Infinite Pierce\nLevel 3 = Laser Air Damage → 60</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Plantern + Cactus</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1080,
+      "name": "Glowver",
+      "introduce": "<size=24><color=#3D1400>\u0022The silver candle illuminates the cold autumn canvas, while the light silk fan dances gracefully with the fireflies.\u0022 This is Glowver's beloved poem. His fascination with fireflies began in childhood, and he often enjoys the cool breeze by the water at night, admiring how their fluorescence rises gently from the wind, twinkling before softly falling back into the dark grass. Only zombies would overlook such exquisite beauty.</color></size>",
+      "info": "<size=24>Dispels fog and increases the Lumos level of Lumos plants present.\n\n<color=#3D1400>Lumos System: </color><color=red>Gives 1 Lumos Level for Lumos plants in the entire field for 30 seconds.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Plantern + Blover</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1081,
+      "name": "Starglow",
+      "introduce": "<size=24><color=#3D1400>Stars dance on the water as fishing lights prepare to rise into the sky. The waves carry away the moon while the tide brings forth the stars. As a child, Starglow dreamed of picking the stars, often gazing at their shimmer on the water. Meeting Plantern taught her that one need not envy the brilliant stars above; even the faintest light, like fireflies, has its own warmth and beauty.</color></size>",
+      "info": "<size=24>Shoots stars that can track zombies if there's light.\n\n<color=#3D1400>Damage: </color><color=red>40*5/3 Seconds</color>\n<color=#3D1400>Lumos System: </color><color=red>Gets the following buffs: \nLevel 1 = Bullets can now track zombies in the same row as them.\nLevel 2 = Bullets are fired continuously regardless of whether there are zombies.\nLevel 3 = Bullets track zombies everywhere.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Plantern + Starfruit</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1082,
+      "name": "Thornball",
+      "introduce": "<size=24><color=#3D1400>Thornballs always move in groups, chirping arrogantly and looking down on others. The other plants are curious what such tiny creatures could possibly do, but the Thornballs remain unfazed: \u0022If butterflies can stir up a storm, then of course we're far more powerful.\u0022</color></size>",
+      "info": "<size=24>It spits out thorns to attack zombies in the sky. Does not occupy any grid.\n\n<color=#3D1400>Damage: </color><color=red>20*2 / 1.5 seconds (Plant), 20*2 / 1 Second (Wingman)</color>\n<color=#3D1400>Special: </color><color=red>Can be planted on top of another plant.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cactus + Blover</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1083,
+      "name": "Sea Star",
+      "introduce": "<size=24><color=#3D1400>\u0022Though my name resembles that of an animal, it's just a stage name,\u0022 Sea Star explained. \u0022I'm a magician who can expel spores of various shapes.\u0022 He harbors a deep dislike for diving zombies, worried they'll uncover the truth: he's simply a sea-shroom with a star-shaped water gun perched on his head.</color></size>",
+      "info": "<size=24>Attacks twice when fully grown.\n\n<color=#3D1400>Damage: </color><color=red>20*5 → 20*5*2 / 1.5 Seconds</color>\n<color=#3D1400>Growth Time: </color><color=red>60 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Starfruit</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1084,
+      "name": "Starblover",
+      "introduce": "<size=24><color=#3D1400>\u0022Gather the stars around me and give them to those wishing upon a shooting star,\u0022 Starblover proudly declares, believing it to be a noble mission. However, not everyone appreciates it—especially when the star shower comes flying directly at them.</color></size>",
+      "info": "<size=24>Attracts stars to rotate around itself and launch them out.\n\n<color=#3D1400>Special: </color><color=red>Attracts nearby star bullets. After 6 seconds, shoots them out as tracking bullets with twice the speed and damage. Attracts up to 20 bullets max.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Blover + Starfruit</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1085,
+      "name": "Starthorn",
+      "introduce": "<size=24><color=#3D1400>Starthorn has always been a bit of an oddity. The plants joke, \u0022He's always on the ground but only fights the flying zombies. Why doesn't he go after the ground ones?\u0022 Starthorn, ever patient, says nothing, quietly protecting his secret: his poor vision only allows him to see the sky when he lies down.</color></size>",
+      "info": "<size=24>Can only attack zombies in the sky.\n\n<color=#3D1400>Damage: </color><color=red>20*5/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Bullets track flying zombies across the board.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cactus + Starfruit</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1086,
+      "name": "Sea Blow-shroom",
+      "introduce": "<size=24><color=#3D1400>Sea Blow-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \u0022Feng Shui\u0022 from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
+      "info": "<size=24>Dispels fog and blows back zombies in the water.\n\n<color=#3D1400>Special: </color><color=red>Dispels fog and repels water zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Blover</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1087,
+      "name": "Jack O' Lantern",
+      "introduce": "<size=24><color=#3D1400>Jack O' Lantern insists that he frequently encounters ghosts, but do they truly exist? Who can say for certain? Perhaps he was simply dragged into another round of Halloween festivities by someone eager for a good scare.</color></size>",
+      "info": "<size=24>In a small area, dispels fog and increase the Lumos Level for the Lumos plants inside.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Lumos System: </color><color=red>Give 1 Lumos Level in a 3x3 Grid. Restores 150 Toughness per Lumos Level every 15 seconds.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Plantern + Pumpkin</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1088,
+      "name": "Thorngourd",
+      "introduce": "<size=24><color=#3D1400>Thorngourd might look like a distant relative of Pumpkin, but its current form comes from a desert adventure with Blover. Strangely enough, it doesn't seem to have visible thorns, yet plants that try to hop into it always get poked, leaving them questioning how it happens.</color></size>",
+      "info": "<size=24>Counterattacks the zombies that bite it.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Damage attacking enemies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cactus + Pumpki</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1089,
+      "name": "Stargourd",
+      "introduce": "<size=24><color=#3D1400>People often wonder how many languages Stargourd must know to communicate effortlessly with all the plants. Stargourd smiles and says, \u0022Actually, I only speak Starfruit's language, since he's the only one I work closely with.\u0022</color></size>",
+      "info": "<size=24>Helps Starblover retain more stars.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Increases the storage limit of Starblover to 60.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Starfruit + Pumpkin</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1090,
+      "name": "Kipli Tiga",
+      "introduce": "<size=24><color=#3D1400>The Split Pea brothers always argued over the best direction to fire—forward or backward. But now they've found a clever solution: just let the bullets rebound. Problem solved!</color></size>",
+      "info": "<size=24>Split Peas shoot peas forward and backwards.\n\n<color=#3D1400>Damage: </color><color=red>20*3/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Peas shot backwards will bounce and move forwards.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Repeater + Peashooter</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1091,
+      "name": "Windgourd",
+      "introduce": "<size=24><color=#3D1400>For Windgourd, looking good is a top priority. He never leaves home without first spending a solid half hour perfecting the leaves on his head, ensuring his style is flawless.</color></size>",
+      "info": "<size=24>Every so often a Blover will spawn to blow away the fog.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Produces a Blover every 30 seconds.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Blover + Pumpkin</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1092,
+      "name": "Pumpkin Lure",
+      "introduce": "<size=24><color=#3D1400>Dining out sends shivers down Pumpkin Lure's spine. He's always fearful that the iron cutlery will magically stick to his face, turning an enjoyable meal into an awkward experience.</color></size>",
+      "info": "<size=24>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Magnet System: </color><color=red>This plant will deal:\n(20 * Amount of Magnetic Plants in System * Zombie Speed) to specific zombies every 6 Seconds. Only Zombies with magnetable materials OR mechanical vehicles can be damaged this way. Also, they must not be on the sky or underground.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Pumpkin + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1093,
+      "name": "Starpole",
+      "introduce": "<size=24><color=#3D1400>Starpole harbors a lifelong dream: to suck the stars from the sky. He spends every night staring at the starry heavens, imagining the day when his dream becomes reality.</color></size>",
+      "info": "<size=24>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=#3D1400>Damage: </color><color=red>20*5/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Deals double damage to iron zombies.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Starfruit + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1094,
+      "name": "Starjoker",
+      "introduce": "<size=24><color=#3D1400>Starjoker often bore the burden of being seen as a circus clown, which left him feeling discontented. \u0022I may appear comical, but I am, in fact, a superhero,\u0022 he declared. \u0022I commandeered the zombie's Jack-in-the-Box and put on the hero suit inside!\u0022 Perhaps the Magnet-shroom who aided him in the heist never mentioned where the box came from.</color></size>",
+      "info": "<size=24>Shoots out star bullets that explode on contact.\n\n<color=#3D1400>Damage: </color><color=red>40*5/3 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Bullets explode to deal a small splash damage upon contact.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Starfruit + Magnet-shroom) + Jack-in-the-Box (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1095,
+      "name": "Starpick",
+      "introduce": "<size=24><color=#3D1400>\u0022It's remarkably pickaxe-like,\u0022 Starpick commented, a hint of amusement in his tone. \u0022I can feel part of myself nestled in the ground, and it's quite pleasant—unless you're bothered by insects like centipedes.\u0022 With a cheeky smile, he challenged, \u0022Why not take off my hat? You'll find I'm even more pickaxe-like than you!\u0022</color></size>",
+      "info": "<size=24>Pickfruit hides underground: zombies will not attack it.\n\n<color=#3D1400>Damage: </color><color=red>20*5/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Cannot be attacked.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Starfruit + Magnet-shroom) + Pickaxe</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1096,
+      "name": "Starsteel",
+      "introduce": "<size=24><color=#3D1400>People often use the headshots of Starsteel and Starpole to hype up their relationship, which greatly troubles both of them. In fact, Starsteel just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
+      "info": "<size=24>Fires star bullets lined with a metallic coating.\n\n<color=#3D1400>Toughness: </color><color=red>2000</color>\n<color=#3D1400>Damage: </color><color=red>40*5/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Knocks back on contact. Deals immense damage to Iron Zombies, and break iron doors.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Starfruit + Magnet-shroom) + Iron (In Order)</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1097,
+      "name": "Iron Pumpkin",
+      "introduce": "<size=24><color=#3D1400>\u0022I wish I were stronger,\u0022 Iron Pumpkin muses. \u0022Maybe if I were made of diamond...\u0022 Steelfruit smirks and replies, \u0022Even that wouldn't be enough! You'd need to be netherite!\u0022 In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
+      "info": "<size=24>Protects your plants with sturdy iron.\n\n<color=#3D1400>Toughness: </color><color=red>8000</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Pumpkin + Magnet-shroom) + Iron</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1098,
+      "name": "Joker Pumpkin",
+      "introduce": "<size=24><color=#3D1400>\u0022Whenever I emerge, it signals the arrival of the clown. Everyone wonders what lies within his box, but the outcome remains a mystery. I caught a glimpse once, and that moment changed everything for me.\u0022</color></size>",
+      "info": "<size=24>Can block explosions caused by Jack-in-the-Box zombies\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Nullifies the explosion damage of the Jack-in-the-Box, protecting the plant inside.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Pumpkin + Magnet-shroom) + Jack-in-the-Box</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1099,
+      "name": "Miner Pumpkin",
+      "introduce": "<size=24><color=#3D1400>Pumpkin is frequently used to protect the plants in the back from being attacked by miners. Curious about stopping the miners from drilling into the ground, he picked up their pickaxes and studied them. Ultimately, he developed new technology that forces miners to dig their way out of the ground in advance.</color></size>",
+      "info": "<size=24>Can block mining attempts by Miner Zombies.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Forces Miner Zombies to unearth prematurely.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>(Pumpkin + Magnet-shroom) + Pickaxe</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1100,
+      "name": "Magled-shroom",
+      "introduce": "<size=24><color=#3D1400>\u0022Honestly, I wish I could be a simple Magnet-shroom,\u0022 Magled-shroom confessed. \u0022That way, I wouldn't have to be in the spotlight constantly or feel the pressure of using one magnet to do the work of two.\u0022</color></size>",
+      "info": "<size=24>Attraction range and cooldown time improves depending on the Lumos Level.\n\n<color=#3D1400>Magnet Interval: </color><color=red>15 Seconds (LL0) → 11 Seconds → 7.5 Seconds → 5 Seconds (LL3)</color>\n<color=#3D1400>Magnet Range: </color><color=red>+1 (LL1) → +2 → +3</color>\n<color=#3D1400>Lumos System: </color><color=red>Higher Lumos Levels will significantly shorten the attraction interval and increase the attraction range. When it's Lumos Level 2, the attraction will cause 200 damage to zombies near the attraction target.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Plantern + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1101,
+      "name": "Sea Mag-shroom",
+      "introduce": "<size=24><color=#3D1400>The other sea-shrooms couldn't comprehend why Sea Mag-shroom could absorb iron to become bigger and taller. \u0022It's simple: E=mc²,\u0022 he explained, even if most of the energy was lost in the air and went completely unused.</color></size>",
+      "info": "<size=24>That's weird... Why does the iron tool get bigger as well as he grows?\n\n<color=#3D1400>Magnet Interval: </color><color=red>15 Seconds → 10 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Grows after attracting 3 times.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Sea-shroom + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1102,
+      "name": "Magblover",
+      "introduce": "<size=24><color=#3D1400>The plants often call Magblover \u0022Magneto.\u0022 He confidently casts his favorite spell, \u0022Disarmament!\u0022 at the zombies, even though he has no idea how the conversion of wind energy to magnetic energy works behind the scenes.</color></size>",
+      "info": "<size=24>Suck away all the iron objects present.\n\n<color=#3D1400>Special: </color><color=red>Attract up to 10 iron objects.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Blover + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1103,
+      "name": "Magcactus",
+      "introduce": "<size=24><color=#3D1400>Magcactus spent some time studying communications jamming at the Air Force Academy, often bragging to his friends about his stellar grades. What he doesn't realize is that his success was mostly thanks to his father, a high-ranking Air Force commander pulling strings behind the scenes.</color></size>",
+      "info": "<size=24>Can cause high damage to flying objects.\n\n<color=#3D1400>Damage: </color><color=red>20/1.5 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Deals double the damage to metallic armor. Dealing a certain amount of damage to Airships can cause it to crash, making it deal 1000 damage to zombies near the crash site.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Cactus + Magnet-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1104,
+      "name": "Starlure",
+      "introduce": "<size=24><color=#3D1400></color></size>",
+      "info": "<size=24>Summons a meteor that deal devastating damage to zombies.\n\n<color=#3D1400>Damage: </color><color=red>60*5/3 Seconds</color>\n<color=#3D1400>Lumos System: </color><color=red>Lumos levels 1 to 3 has the same effect as Starglow. Upon hitting Lumos Level 4, summons another type of meteor that has a separate cooldown from the original meteor.</color>\n<color=#3D1400>Magnetic System: </color><color=red>Each plant connected to the Magnetic System will increase the damage of the bullets by 5%.\n<color=purple>Both systems can increase the damage of the bullets by upto 120, maximum.\n<color=#3D1400>Special: </color><color=red>Summons a meteor that hit the ground and explode into stars every 60 seconds. The cooldown can be reduced by connecting other Starlures together, upto 13 for an improved cooldown of 25 seconds.</color>\n<color=#3D1400>Fusion Formula:\n</color><color=red>Plantern + Magnet-shroom + Starfruit</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1105,
+      "name": "Kipli dua Es",
+      "introduce": "<size=24><color=#3D1400>\u0022Whatever happened to you?\u0022 a curious plant asked Snow Repeater. He chuckled softly and said, \u0022I'm still a Repeater at heart. I just forgot to snuggle under a blanket during winter nights.\u0022</color></size>",
+      "info": "<size=24>Shoots two frozen peas in succession.\n\n<color=#3D1400>Damage: </color><color=red>20*2/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Repeater + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1106,
+      "name": "Kipli Tentara Es",
+      "introduce": "<size=24><color=#3D1400>\u0022His hands are cold, his face is cold, his heart is cold, and even his blood is cold… Is he frozen?\u0022 someone wondered aloud. Gatling Snow shivered, reassuring the concerned plants, \u0022I'm not frozen! The barrel of my machine gun is still burning hot!\u0022</color></size>",
+      "info": "<size=24>Gatling Snow shoot four frozen peas at a time.\n\n<color=#3D1400>Damage: </color><color=red>20*4/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Gatling Pea + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1107,
+      "name": "Kipli Tiga Es",
+      "introduce": "<size=24><color=#3D1400>\u0022Don't let his icy facade mislead you; there could be a hidden warmth,\u0022 someone suggested. But Miner Zombie sneered, \u0022Don't make foolish assumptions. This guy has nothing but cold sides!\u0022</color></size>",
+      "info": "<size=24>Shoots frozen peas forwards and backwards.\n\n<color=#3D1400>Damage: </color><color=red>20*3/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Split Pea + Ice-shroom</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1108,
+      "name": "Kipli 3 Rasa Ceri",
+      "introduce": "<size=24><color=#3D1400>Cherryshooter crawled out of the trench, bewildered. \u0022Who threw that bomb?\u0022 he demanded. \u0022Sorry, brother,\u0022 Split Cherry replied sheepishly, \u0022I saw you pointing your gun at us and thought you were a zombie.\u0022</color></size>",
+      "info": "<size=24>Split Cherry shoot cherries forward and backwards.\n\n<color=#3D1400>Damage: </color><color=red>60*3/1.5 Seconds</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Split Pea + Cherry Bomb</color></size>",
+      "cost": ""
+    },
+    {
+      "seedType": 1109,
+      "name": "Kipli Sniper",
+      "introduce": "<size=24><color=#3D1400>Admired for his sharp vision and robust strength, Sniper Pea is cherished by his Pea comrades. However, during their formation marches, his gun barrel often finds its way into the backs of their heads, making for some tense moments along the way.</color></size>",
+      "info": "<size=24>Snipes zombies all over the map to deal massive damage.\n\n<color=#3D1400>Damage: </color><color=red>500/3 Seconds</color>\n<color=#3D1400>Special: </color><color=red>Headshot once every 6 attacks, insta-killing zombies.</color></size>",
+      "cost": "<size=24><color=purple>Usage Condition: Large Map Tower Defense Modes</color></size>"
+    },
+    {
+      "seedType": 1110,
+      "name": "<size=30>Bloverthorn Pumpkin",
+      "introduce": "<size=24><color=#3D1400>Bloverthorn Pumpkin always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Thornball's curiosity led it into the study, where it uncovered the titles: \u0022Guide to Succulent Plant Cultivation,\u0022 \u0022Postpartum Care for Pumpkins,\u0022 and \u002230-Second Cactus Quick Flight Tutorial.\u0022 The Thornball chuckled at the unexpected collection.</color></size>",
+      "info": "<size=24>Spawns a Thornball that moves around the field to attack flying zombies.\n\n<color=#3D1400>Toughness: </color><color=red>4000</color>\n<color=#3D1400>Special: </color><color=red>Always has a Thornball wingman with him when he appears. Generates a Thornball on top of a 3x3 grid regularly.</color>\n<color=#3D1400>Fusion Formula: </color><color=red>Pumpkin + Cactus + Blover</color></size>",
+      "cost": ""
+    }
+  ]
+}
