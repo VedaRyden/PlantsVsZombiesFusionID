@@ -18,12 +18,12 @@
             "seedType": 2,
             "name": "樱桃炸弹",
             "introduce": "<color=#3D1400>”我要爆开了”，樱桃一号说，不，我们是要炸开了”它弟弟樱桃二号说。经过激烈的商议之后，他们才统一“爆炸”这个说法。</color>",
-            "info": "樱桃炸弹，可以炸掉一定范围内的全部僵尸。他们只有很短的引线，只要一种下就会立刻爆炸，所以请把他们种在僵尸身边。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒</color>",
-            "cost": "花费：<color=red>150</color>\n冷却时间：<color=red>7.5秒</color>"
+            "info": "樱桃炸弹，可以炸掉一定范围内的全部僵尸。他们只有很短的引线，只要一种下就会立刻爆炸，所以请把他们种在僵尸身边。\n\n<color=#3D1400>伤害：</color><color=red>1800（灰烬）</color>",
+            "cost": "花费：<color=red>150</color>\n冷却时间：<color=red>50秒</color>"
         },
         {
             "seedType": 3,
-            "name": "坚果",
+            "name": "坚果墙",
             "introduce": "<color=#3D1400>坚果墙：“人们想知道，经常被僵尸啃的感觉感到一种麻麻的感觉，像是，令人放松的背部按摩。”。</color>",
             "info": "坚果拥有足以保护其他植物的坚硬外壳。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>",
             "cost": "花费：<color=red>50</color>\n冷却时间：<color=red>30秒</color>"
@@ -333,7 +333,7 @@
             "seedType": 913,
             "name": "黑曜石高坚果",
             "introduce": "<color=#3D1400>比起被最好的朋友守护，这颗碧根果宁愿去守护最好的朋友，而这如宝石般坚硬璀璨的躯体和坚毅的眼神则是由黑曜石高坚果的灵魂经过足以刻在他骨子里的冰与火的洗礼后凝结而成，即使有一天身心都变得破败不堪他也心甘情愿。</color>",
-            "info": "黑曜石高坚果的防御力是普通高坚果的4倍。\n\n<color=#3D1400>韧性：</color><color=red>32000</color>\n<color=#3D1400>特点：</color><color=red>每15秒回复1500血，可以抵抗车的碾压，单次受伤最高200</color>",
+            "info": "黑曜石高坚果的防御力是普通高坚果的4倍。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>韧性：</color><color=red>32000</color>\n<color=#3D1400>特点：</color><color=red>每15秒回复1500血，可以抵抗车的碾压，单次受伤最高200</color>\n<color=#3D1400>融合配方：</color><color=red>寒冰高坚果+火焰高坚果</color>",
             "cost": ""
         },
         {
@@ -676,7 +676,7 @@
             "seedType": 1049,
             "name": "火爆水草",
             "introduce": "<color=#3D1400>“常言道‘热情如火’，火爆水草对此可是深有体会，它那燃烧的激情连水都无法浇灭！可惜它旁边的僵尸只能感受到热情的‘烧烤’，却听不到水草的‘热情’发言，因为它们已经在这股烈焰中化为灰烬了！”</color>",
-            "info": "僵尸接触后会烧掉一整行的僵尸!\n\n<color=#3D1400>伤害：</color><color=red>秒杀+1800（本行）</color>\n<color=#3D1400>融合配方：</color><color=red>A+B</color>\n<color=#3D1400>融合配方：</color><color=red>缠绕水草+火爆辣椒</color>",
+            "info": "僵尸接触后会烧掉一整行的僵尸!\n\n<color=#3D1400>伤害：</color><color=red>秒杀+1800（本行）</color>\n<color=#3D1400>融合配方：</color><color=red>缠绕水草+火爆辣椒</color>",
             "cost": ""
         },
         {
